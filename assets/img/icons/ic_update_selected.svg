@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="ic_update_selected" transform="translate(-0.674 1.2)">
+    <rect id="Retângulo_604" data-name="Retângulo 604" width="24" height="24" transform="translate(0.674 -1.2)" fill="#fff" opacity="0"/>
+    <g id="update" transform="translate(0.674 -4.07)">
+      <path id="Caminho_64" data-name="Caminho 64" d="M15.691,14.871H19.65" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <g id="Retângulo_783" data-name="Retângulo 783" transform="translate(0 9.87)" fill="none" stroke="#fff" stroke-width="1">
+        <rect width="24" height="10" rx="2" stroke="none"/>
+        <rect x="0.5" y="0.5" width="23" height="9" rx="1.5" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>
